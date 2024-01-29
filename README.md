@@ -1,2 +1,2 @@
 # PrepCourse-Henry
-Este es un repositorio del Modulo 2 del PrepCourse de Henry
+Este es un proyecto de pruebas de como crear un repositorio y donarlo desde Githup a mi computadora
